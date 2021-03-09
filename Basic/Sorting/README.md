@@ -15,11 +15,11 @@
         Complete the function DistributeArray with following details:
 
         DistributeArray has the following parameter(s):
-            arr[int] a: Array of integers
+            int[n] a: Array of integers
             int b: pivot
 
         Returns
-            arr[int] a'
+            int[n] a'
 
         Questions: 
             How do we find the pivot in the array containing even number of elements?
