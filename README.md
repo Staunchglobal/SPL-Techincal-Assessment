@@ -8,12 +8,12 @@
 
 ## Brief:
 
-    In the field of Computer Science, we have different programmaing paradigms, patterns 
+#### In the field of Computer Science, we have different programmaing paradigms, patterns 
     and approachesto problem solving. 
 
-    ### Imperative Programming:
+##### Imperative Programming:
         
-        a. Imperative Programming is a programming paradigm that uses statements that 
+        Imperative Programming is a programming paradigm that uses statements that 
         change a program's state. In much the same way that the imperative mood in 
         natural languages expresses commands, an imperative program consists of 
         commands for the computer to perform. Imperative programming focuses on 
@@ -21,7 +21,7 @@
 
         e.g. Object Oriented Programming, Procedural Calls, Polymorphic Algorithms etc.
     
-    ### Declarative Programming:
+##### Declarative Programming:
 
         a. In Computer Science, declarative programming is a programming paradigm, 
         a style of building the structure and elements of computer programs that 
