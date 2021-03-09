@@ -8,8 +8,7 @@
 
 ## Brief:
 
-#### In the field of Computer Science, we have different programmaing paradigms, patterns 
-    and approachesto problem solving. 
+#### In the field of Computer Science, we have different programmaing paradigms, patterns and approachesto problem solving. 
 
 ##### Imperative Programming:
         
