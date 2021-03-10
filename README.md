@@ -58,7 +58,6 @@ Solve them in the order you prefer.**
 You are required to use Object Oriented Approach to design a Learning
 Management System for students and professors.
 
-You have to implement Learning Management System (LMS) for LUMS.
 A user of LMS has three data members: firstName, lastName, password and userName. (may be other
 data members also). A user can sign in/sign out to LMS system.
 A user of LMS can be a
