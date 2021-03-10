@@ -49,9 +49,9 @@ _b. Find the frequency of numbers in a array._
 
 ### Dynamic Programming
 
-    a. Solve Fibonacci problem using memoization.
+a. Solve Fibonacci problem using memoization.
 
-    b. Find Longest Common SubSequence in two strings.
+b. Find Longest Common SubSequence in two strings.
 
 ### Recursion And Backtracking
 
