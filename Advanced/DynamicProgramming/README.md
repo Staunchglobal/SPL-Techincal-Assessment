@@ -1,4 +1,4 @@
-# Recursion Problems:
+# Dynamic Programming Problems:
 
 ## Problem 1: Solve Fibonnaci Problem using Memoization.
 
@@ -19,4 +19,4 @@
 
         LCS for input Sequences “AGGTAB” and “GXTXAYB” is “GTAB” of length 4.
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 2: ________________ (Fill this in when submitting)

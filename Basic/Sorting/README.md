@@ -2,13 +2,14 @@
 
 ## Problem 1: Distribute An Array of Numbers around a given pivot
 
-    Given an Array of integers and pivot integer return an array that ditributes the array around
-    that pivot in a sorted order.
+    Given an Array of integers and pivot integer return an array
+    that ditributes the array around that pivot in a sorted order.
 
     Example:
 
         For An Array
-        [1,-1,-2,2,-3,3,0] the sorted array would be [-3,-2,-1,0,1,2,3] for pivot 0;
+        [1,-1,-2,2,-3,3,0] the sorted array would be
+        [-3,-2,-1,0,1,2,3] for pivot 0;
 
         Function Description
 
@@ -21,7 +22,7 @@
         Returns
             int[n] a'
 
-        Questions: 
+        Questions:
             How do we find the pivot in the array containing even number of elements?
 
 
@@ -29,8 +30,8 @@
 
 ## Problem 2: Find maximum number from a list of numbers (both negative and non-negative).
 
-    Given an array of positive and negative integers write a sorting algorithm to return the
-    maximum value.
+    Given an array of positive and negative integers write a
+    sorting algorithm to return the maximum value.
 
     Note: Smart Choice of sorting algorithm is important.
 

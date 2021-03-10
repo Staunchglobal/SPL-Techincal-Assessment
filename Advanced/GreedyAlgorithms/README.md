@@ -1,4 +1,4 @@
-# Array Problems:
+# Greedy Algorithms:
 
 ## Problem 1: Find Minimum Absolute Difference of Adjacent Elements In An Array.
 

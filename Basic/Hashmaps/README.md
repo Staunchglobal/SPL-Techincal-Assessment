@@ -2,8 +2,8 @@
 
 ## Problem 1: Shared SubStrings between Two Strings
 
-    Given two strings return a boolean indicating that the two strings share a substring
-    between each other.
+    Given two strings return a boolean indicating that the two
+    strings share a substring between each other.
 
     Example:
 
@@ -41,4 +41,4 @@
         Can we use this method to return how many elements match between two maps?
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 2: ________________ (Fill this in when submitting)
