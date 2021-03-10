@@ -43,9 +43,9 @@
 
 ### Search
 
-**a. Given an array of integers and a target value, determine the number of pairs of array elements that have a difference equal to the target value.**
+_a. Given an array of integers and a target value, determine the number of pairs of array elements that have a difference equal to the target value._
 
-**b. Find the frequency of numbers in a array.**
+_b. Find the frequency of numbers in a array._
 
 ### Dynamic Programming
 
