@@ -11,48 +11,44 @@ Solve them in the order you prefer.**
 
 ### Arrays
 
-a. Array Left Rotation
-
-b. Array Reversal
+1. Array Left Rotation
+2. Array Reversal
 
 ### Dictionaries And Hashmaps
 
-a. Shared SubStrings between Two Strings
-
-b. Comparison of Two dictionaries/maps for equality
+1. Shared SubStrings between Two Strings
+2. Comparison of Two dictionaries/maps for equality
 
 ### Sorting
 
-a. Distribute a set of Numbers around given pivot.
+1. Distribute a set of Numbers around given pivot.
 _(Make a good choice for sorting algorithm)_
-
-b. Find maximum number from a list of numbers (both negative and non-negative).
+2. Find maximum number from a list of numbers (both negative and non-negative).
 _(Make a good choice for sorting algorithm)_
 
 ### String Manipulation & Trees
 
-a. Compare the strands of two genomes report similarity index in percentages.
-
-b. Remove a character from the entire string.
+1. Compare the strands of two genomes report similarity index in percentages.
+2. Remove a character from the entire string.
 
 ## Advanced
 
 ### Greedy Algorithms
 
-a. Minimum absolute difference in an array.
+1. Minimum absolute difference in an array.
 
 ### Search
 
-a. Given an array of integers and a target value, determine the number of pairs of array elements that have a difference equal to the target value.
-
-b. Find the frequency of numbers in a array.
+1. Given an array of integers and a target value, determine the number of pairs of array elements that have a difference equal to the target value.
+2. Find the frequency of numbers in a array.
 
 ### Dynamic Programming
 
-a. Solve Fibonacci problem using memoization.
-
-b. Find Longest Common SubSequence in two strings.
+1. Solve Fibonacci problem using memoization.
+2. Find Longest Common SubSequence in two strings.
 
 ### Recursion And Backtracking
 
-a. Calculate Mean of An Array using recursion.
+1. Calculate Mean of An Array using recursion.
+
+## Object Oriented Programming
