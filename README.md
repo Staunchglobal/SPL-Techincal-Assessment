@@ -50,7 +50,7 @@
         "Run Instructions" and write the command required to run your file to test it.
 
         6. This will be an open ended programming exercise. Problem descriptions are 
-        providied and you are free to choose the programming language, although you will have 
+        provided and you are free to choose the programming language, although you will have 
         to follow the paradigm instructed to solve that problem. You are allowed to write 
         your own test cases where required to elaborate your approach.
 
