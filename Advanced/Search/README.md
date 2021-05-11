@@ -7,7 +7,7 @@
 
     Example:
         Input : arr[] = {10, 12, 14, 16, 18}
-        Input: 20,
+        Input: 30,
         Output : [{12,18},{14,16}]
         Function Description
 
