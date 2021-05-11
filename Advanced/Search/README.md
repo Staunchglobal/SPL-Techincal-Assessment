@@ -1,8 +1,8 @@
 # Search Problems:
 
-## Problem 1: Given An Array and a target number Find all the Pairs the difference of which is equal to that target number.
+## Problem 1: Given An Array and a target number Find all the Pairs the sum of which is equal to that target number.
 
-    Find all the pairs in an array the difference of which is equal to
+    Find all the pairs in an array the sum of which is equal to
     the provided target number.
 
     Example:
