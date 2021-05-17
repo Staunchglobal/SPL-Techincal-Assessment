@@ -20,3 +20,23 @@
 
 
     Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+#include<iostream.h>
+#include<stdio.h>
+using namespace std;
+float findMean(inta[], int n)
+{
+if (n==1)
+return (float) a [n-1];
+else 
+   return ((float) (findMean(a, n-1)*(n-1) + a[n-1])/n);
+ }
+ int main()
+ {
+ float Mean =0;
+ int a[] = {10,12,14,16,18]
+ int n = size(a)/size(a[0]);
+ printf("%.2f\n",findMean(a,n));
+ return 0;
+ }
+ 
+ 
