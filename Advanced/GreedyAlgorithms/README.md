@@ -23,5 +23,23 @@
         int a': Minimum Absolute Difference
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1:
+    #include <iostream.h>
+    usingnamespace std;
+    void minAdjDifference (int arr[] , int n){
+    if(n<2)
+    return;
+    int new = abs(arr[1]- arr[0])
+    for (int i=2; i<n; i++)
+    new=min(new, abs(arr[i] - arr[i-1]));
+    cout<<" Min Difference="<<new;
+    }
+    int main()
+    {
+      int a[] = {10,12,13,15,10};
+      int n=min(a)/min(a[0]);
+      minADJDifference(a,n);
+      return0;
+      }
+      
 
