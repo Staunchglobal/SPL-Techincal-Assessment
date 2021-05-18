@@ -3,7 +3,7 @@
 ## Introduction :
 
 **Assessment branch contains the problems that you need to solve and all
-the problems are converted to basic, adavanced and OOP. Each folder has
+the problems are converted to basic, advanced and OOP. Each folder has
 a separate Readme.md file. Basic and Advanced problems are mostly functional.
 Solve them in the order you prefer.**
 
