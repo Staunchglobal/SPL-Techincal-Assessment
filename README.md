@@ -30,7 +30,7 @@ _e.g. Functional Programming, Inductive Logic, Concurrent Logic etc.._
 
 ## Instructions:
 
-1. This repository has a branch name Assessment. Clone this repository
+1. This repository has a branch named Assessment. Clone this repository
    and checkout to Assessment branch.
 
 2. You are not allowed to push code to this repository. Therefore you are
