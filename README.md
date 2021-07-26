@@ -36,6 +36,7 @@ _e.g. Functional Programming, Inductive Logic, Concurrent Logic etc.._
 2. You are not allowed to push code to this repository. Therefore you are
    required to create a copy of this repository on your own account and work on it.
    Hint: Make good use of git clone, git fork, git plugins for vs code etc.
+   https://docs.github.com/en/get-started/quickstart/fork-a-repo
 
 3. In Assessment branch there will be tasks in folders. Each task folder will have
    a descriptive name and will have Readme.md file, please read the instructions carefully
